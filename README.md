@@ -32,7 +32,7 @@ The system detects suspicious activities such as:
 - dlib  
 - NumPy  
 - Matplotlib  
-- deepface (optional)
+- deepface 
 
 ---
 
